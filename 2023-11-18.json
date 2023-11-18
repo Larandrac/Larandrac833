@@ -1,0 +1,26 @@
+{
+  "name": "Frank Gilbert",
+  "age": 33,
+  "address": {
+    "street": "Zorjeg Grove",
+    "city": "Wojogi",
+    "state": "CA",
+    "zip": "11687"
+  },
+  "contact": {
+    "phone": "(829) 540-6756",
+    "servicePhone": "800643194"
+  },
+  "birthday": "1975-01-10T06:30:48.597Z",
+  "ip": "65.206.194.107",
+  "foo": "bar",
+  "profile": {
+    "about": "Dibakur lugvugo bolait ewoiti ka ca iwaburil ehulol waf pap runpos zudiop woltohzup nopobdod pa tesdek tuh ofpajas. Zo gen jaco icgop egvi fit coghut sesuwak bek tiroscad woosa buz cuwim onwetiz vadahza kudicli selzeh. Gewpi itonac vu gacpuv hefpas orka buzcocze ap focaj mazman tosmehuc vel uthup.",
+    "bio": "Izugug uk gu wojju uzeci kiwol tet zire ja te nur wezof olopin tolilopik usuah buwpepone fozamvib. Wivikmu luda sa nuculu hobapub cazcib peghenbu kur baw elade col vikaku. Ajdulu pat ca wec deulo tol gacsamik migniefa ehezodlu widsa ri ju vubi ebuwu ne hopza ejofu manutol. Igasgu besekzi kofas uruceji kawihudu jesvu vicco zu cocfud tovgefot hazmizok ovta rir gez cotniem binro."
+  },
+  "apiKey": "84abb9db39ec1cf6546a0fa97f08885a2d80fa2122f8d7ec15a342b496027dee",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}
