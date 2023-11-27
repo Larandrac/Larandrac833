@@ -1,0 +1,26 @@
+{
+  "name": "Cornelia Brewer",
+  "age": 30,
+  "address": {
+    "street": "Cibco Heights",
+    "city": "Dikahsim",
+    "state": "DC",
+    "zip": "46556"
+  },
+  "contact": {
+    "phone": "(255) 287-4159",
+    "servicePhone": "800737449"
+  },
+  "birthday": "1997-01-13T03:24:03.562Z",
+  "ip": "234.103.142.195",
+  "foo": "bar",
+  "profile": {
+    "about": "Esu deded livhesno otu we ivuew iza tutvep sebup zo buhwoj nevmede kot hugulin. Vetaf acgiroj kad bipku ho ascu tak octobruw hodcem ejvobsew lodbifud diek. Mufah topedmuc enehaseh ufi ukuhuvfur wel bodwokul ep pitdub vedlos eharo mi cino goca gopna kal igonapor.",
+    "bio": "Bake iludivo wi ficsa it or uga kafmetwi gi mofizra pi avaomaonu huhkoclut zeulu rukbig lo nouh fiutomuf. Vezza ki we kemupju lorsefes emor nubhojas eru fi mulfu mutes imovuita cu udelen tuut ocebetu. Nuore jisorta ziihajam hezped we lana kas rut horonebok ni wahavvew wog omuho jeovi fesutaumi ciz piuj luzobano. Kojfom ekmu zimid aciteeb astoh suvizza pefji adazi it se wuuva mim celjaju ba homdauh zolafiuse obi. Tatsueko miacu se jipe gut itu buhavzis vaewa jobeke ke mar mip vehelwon ak. Awujikgam sevkuwun lew faddo uge izveslup puncuovi ah likne zop wiccodo anrav rejnawlo cefa fum ek."
+  },
+  "apiKey": "a7e6f4c1c9f0a087a2743132ff2b8f235acf798517ddacdf10ac20656a2156c4",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
