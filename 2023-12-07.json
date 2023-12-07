@@ -1,0 +1,26 @@
+{
+  "name": "Jean Washington",
+  "age": 34,
+  "address": {
+    "street": "Sufpe Avenue",
+    "city": "Esnudev",
+    "state": "MS",
+    "zip": "55291"
+  },
+  "contact": {
+    "phone": "(258) 202-1588",
+    "servicePhone": "800536458"
+  },
+  "birthday": "1980-07-19T01:52:55.602Z",
+  "ip": "109.211.234.100",
+  "foo": "bar",
+  "profile": {
+    "about": "Peufwuf cozwagtas cev za samgun gesuzepun vekfuw laje bij jemetliz rohovcet po ivoovasap kogeice. Goipov uta vec fonew pepbukot ni ini opaveufo vazi totjojnu vitdagid fum dence awesuhog. Ektibjo opi fauz hoc zapgohume zuafe zihfahvo mu huciw fecaawa ros tic.",
+    "bio": "Mubpalpi nize ric puzot ninnavi cecsid vini no fobugsit idiodibo torwu so. Pabafkon neszu imekanjum wesdama zekabaw emugir wec esinafur nurvidfoz rivbahu dilu rap limfu. Ruogaoza uzdojat kiupu vifab nos ravorori ni ib riacajut jedij mirmis laiva pul."
+  },
+  "apiKey": "fc92c38be19154c8daca1212600a89b97565a1d37c981921611568de074c9289",
+  "currency": {
+    "code": "VEF",
+    "name": "Venezuela Bolivar"
+  }
+}
