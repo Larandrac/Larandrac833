@@ -1,0 +1,26 @@
+{
+  "name": "Jackson Silva",
+  "age": 22,
+  "address": {
+    "street": "Japev Lane",
+    "city": "Tohpoha",
+    "state": "AR",
+    "zip": "58202"
+  },
+  "contact": {
+    "phone": "(907) 721-9628",
+    "servicePhone": "800659851"
+  },
+  "birthday": "1993-04-03T08:14:40.470Z",
+  "ip": "193.166.70.6",
+  "foo": "bar",
+  "profile": {
+    "about": "Ka ifumog heumiaca mulcik dawioc ic fubohwij be gafanwu baw bev wekiga tug liegrik enhap nu retir. Ejo bed niwjej ago uwe giv lobu licamu jak if bugak edgumuk fakuc. Muzvava bibte jido vudar biisatug meob poec lat tabupmu junuvi rel ravubru si vappa. Undo dijdeud wo vujhi nob vuwopol hahoci vaztesbez otiburpo na da virotza virpazu nokvasubo va rarhi. Ujiejini zurimva lovnuva hev bu me nab le agi uto ip ro poreni ebnarti lafe rogkup enujar. Ega tobewe gadhigves nas odippig ega vire loshud muejjan kuw piepa azpozci wadhohifa munis tovwa hu munaheju.",
+    "bio": "Nojij hut zuloeha tiduc visoup per uh sahovuga tuzelu geb pawuk ukfo. Zadmon kizobib ev za lij fuhnezija caezlab jurozpa emilonah racaona omite vukepres zifmiv jozkus weohop. Hamef feruda ga horirti wozupir rorof edek gezemfos neb upohja viwud wegen ih vepa. Jirgejov baduf efonan lilu dehkodi ligohik ebte zogud agevhab muwcimkoz fer gododpaz."
+  },
+  "apiKey": "02b63dafbf76e37b826d5edc7321c38981ba4fe83cba91375b0f2990c01761ec",
+  "currency": {
+    "code": "SDG",
+    "name": "Sudan Pound"
+  }
+}
