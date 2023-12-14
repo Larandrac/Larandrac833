@@ -1,0 +1,26 @@
+{
+  "name": "Pauline Lamb",
+  "age": 52,
+  "address": {
+    "street": "Tijol Lane",
+    "city": "Volosda",
+    "state": "SD",
+    "zip": "99783"
+  },
+  "contact": {
+    "phone": "(873) 212-3859",
+    "servicePhone": "800333462"
+  },
+  "birthday": "1979-03-30T15:00:50.804Z",
+  "ip": "188.147.100.171",
+  "foo": "bar",
+  "profile": {
+    "about": "No fo lav hi im lufeslar beciwan fawker bevpipno gec posmedpem ivbe cebvan vah wip gu. Kacuig gosi vezaz uzaazu bit osati wimpi zebmelvar ponretak ro suhu wuj vecez mi urivolwa. Ze daozedo uzedot lazulut dudleg fufevfec zufu kod miso ip alsa torwehko zafaksem okafipez suz co hotha. Iji caw worhavbo biw rilmunpet ralanasiw cemoapi alofwe gegi wakzesi de muajote taiwnos. Dablo urunepri aldosma vaslu wi vav zolhed nu ninsaj fehwefeku bamzizov pew gecem naj cufsare fiog ogajifac. Jef owab vok ev hotdebfi wisijeag pinmak kilufrit ikwu wadhauwi zed he pewgivce pellavoji zod zadifene dop.",
+    "bio": "Pec zevin hab se ap losura toin ahvofcis pe socmi saf esedodsu fueroik pi. Amawan wam muupaiv sa gibtaogo hipmardi iha bieto lat uwpipin iwouvdab majzapmam laf. Ipecorwug gipkehre ki obu vudfoca leibose ofebav cawile odniw kafke kodace eso pokarcug tevu."
+  },
+  "apiKey": "2ab2b862efa5188bcf2221aae2cbcaec02e3dad0d11d6cf2c36f89523a3db27c",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
