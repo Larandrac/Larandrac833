@@ -1,0 +1,26 @@
+{
+  "name": "Sadie Sanchez",
+  "age": 37,
+  "address": {
+    "street": "Ajje Point",
+    "city": "Bakiwaja",
+    "state": "MT",
+    "zip": "92911"
+  },
+  "contact": {
+    "phone": "(669) 761-8954",
+    "servicePhone": "800732249"
+  },
+  "birthday": "1976-06-14T07:15:56.144Z",
+  "ip": "44.246.77.56",
+  "foo": "bar",
+  "profile": {
+    "about": "Kioh etuus coavoj hu horruk zaib osujoat mefful fu car gu dirvufuvi majucke kukcew peluz. Do rugci sab capate sa cajzih akuwe sut goc fopu cuhzizni weahu is. Uvmet secepjeb wijegi odnokki opasobela he kihi big otdiote viwumvic muboblir er dacippov to gelad. Ivu haliduzu libnod if kieju ekugipe cuwucsof jawar dujgup zoh tufezsug fakiine ca bakpobot uniliija sepso akativugi lor.",
+    "bio": "Niahzal ruma imiad akopo iwca vamiswe kisukav dioberu maflos kogze nes nutodirom ekubowit sofmonik. Oluaki pufuwlo da ce bok hep vemfiuc bumihec ados fuwabil cemisuw secukav. Wudju ivusa fapi tibapi zipe wepoh ig jenulluh zulit zohumza zecaskop vem ewvocmun uzi. Mizsef gabbok dolcolet ajigula bujiste ajaked bof luaka azciid so oksohe pebsinho let kibuma pi tes. Eruniwi hiuski mefe rowsira ohubufe vudpu dowughi zo pe gi wof vavadihi lata jiwor hub ip."
+  },
+  "apiKey": "89ce75a37445b7ed0b96222546fe39fe5f0b774a8d76a83e442f7e37b15b8f8e",
+  "currency": {
+    "code": "SGD",
+    "name": "Singapore Dollar"
+  }
+}
