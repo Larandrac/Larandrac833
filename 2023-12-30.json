@@ -1,0 +1,26 @@
+{
+  "name": "Cecelia Cross",
+  "age": 25,
+  "address": {
+    "street": "Ewudun Path",
+    "city": "Enuareniw",
+    "state": "ND",
+    "zip": "43808"
+  },
+  "contact": {
+    "phone": "(663) 976-4014",
+    "servicePhone": "800714858"
+  },
+  "birthday": "2006-11-21T06:06:39.013Z",
+  "ip": "17.126.177.216",
+  "foo": "bar",
+  "profile": {
+    "about": "Zu sitomuumi siehibut moba wazde gof burdiphop lehib gocmize loraj hazmihev sidi bediuv komevvur sukji ut oliohela vizkopi. Iloabi linmi dafu apo hu cu mog jid uho otropmav gob tedawevo malfi mobuc zefus vaji. Nivedura mijpohit gegecki kan timpapu veje vabvihag uwta guc noopa emared gi jabekoh. Lo imjuggu vovisfa re matowo cinoksic fepjon fe su titmih vesem anauj ka.",
+    "bio": "Nohdisum wan ucuuz ukcanudo bu ko zav ra sobheca se wakieb baneslac oca. Huvvo lo dasdu lehe zoh umowi guf ho lesko uwmitod beeti cuc tefmoh ehmutvi imiivfo ruaro. Suci gib rafwuvzas vaf ifugav opocone noca secbuiw jih umkihe pi magofgu sigilesi ice."
+  },
+  "apiKey": "dc2168801e9801603a900b70e340b16d54e8e1b1b5da5c9d8ae093b26e0eb67e",
+  "currency": {
+    "code": "MYR",
+    "name": "Malaysia Ringgit"
+  }
+}
