@@ -1,0 +1,26 @@
+{
+  "name": "Matthew Diaz",
+  "age": 57,
+  "address": {
+    "street": "Ojeku Point",
+    "city": "Hakturri",
+    "state": "MN",
+    "zip": "13083"
+  },
+  "contact": {
+    "phone": "(252) 812-2430",
+    "servicePhone": "800188378"
+  },
+  "birthday": "1986-08-15T17:11:38.428Z",
+  "ip": "25.242.169.72",
+  "foo": "bar",
+  "profile": {
+    "about": "Me wici erobiticu suh wim fosepol lian al wilor ruzvu mahod sa pubini. Tatiifi ozotibu ec sur to linbuklo av voku be wemcar vifig nah. Pi ku ci piabokuj wowtar ulnejobi pulwazo ohuigilu raiwe nizuvi piohage uhasuv eho bajwaaj no.",
+    "bio": "Popefuh ko fetad animu ufcov tuhi bosahzef et abzehjag kusadamob so koar. Ezihirum copwib toij visjoce orajiji neve himad pej ti vuwhi ron irep. Ophupig it ci zewovvoj wozu bowfu hulcenrej uzi lal fuwo jirgood tadcu matudko zito avogup piip ro. Tiki hi zuokire eti sokzis ag powcub erape azvu wak ledotbud hami. Lap unfopeg siik idiifomi guicbic otesorlub puvin we kurazpu eri ojle refajucu zazeso bor. Ziwu zabreproc ketic hu coana ruculu tucsuzvip zegna ra fefnimmep no ki foodage dacwoz repid edurezug maz ije. Laec luwojupe jipsodu duwu im revu upi watlej fablu heri wen dimuze pe to tiba."
+  },
+  "apiKey": "9bc97210ad1d368b3df32b3462fcf15ac80a4a5d22af4a3457e4e0fe21946b8c",
+  "currency": {
+    "code": "CDF",
+    "name": "Congo/Kinshasa Franc"
+  }
+}
