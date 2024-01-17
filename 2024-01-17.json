@@ -1,0 +1,26 @@
+{
+  "name": "Dustin Montgomery",
+  "age": 28,
+  "address": {
+    "street": "Natkac Highway",
+    "city": "Ivusama",
+    "state": "CO",
+    "zip": "84713"
+  },
+  "contact": {
+    "phone": "(841) 335-9316",
+    "servicePhone": "800976336"
+  },
+  "birthday": "1962-01-22T02:00:41.692Z",
+  "ip": "245.157.43.160",
+  "foo": "bar",
+  "profile": {
+    "about": "Bom hobeb mekvec wi boelwi hibga eka obraku butgowni halosi fozut mikewu. Tav okujur faafjo azifit anbomjif vezenka inmu mep taula pahsubo so gas ludgo bek fupe darve. Vez jaz kuhu te lidaco nicona ema iharhic huvvuhug libah vacip iha sacbupe utuoj. Evicehew luzofen vuhke ganu fugah dijew jedis topim bahda ro ogeesonu cohzoiw awohojep wele.",
+    "bio": "Wiam rewlo ca elbone peho iti efa kecneda kooto puw pa duup. Ow vij orevajbij cecec zu gen ojamoper ifjibfok vifjaiz huvballa savol uv guk bolacuw towbaz zodelul futefseb. Jacjojtap ojura tupaiju uga ne wezcaf osgasik toiga mo huga dopo jeofosan dotbucti tahrul zozuduvo."
+  },
+  "apiKey": "bee26e06d669c0a080f0cae53b69120eb1b8f3b45fcf6f2405862660a9f0b28d",
+  "currency": {
+    "code": "MGA",
+    "name": "Madagascar Ariary"
+  }
+}
