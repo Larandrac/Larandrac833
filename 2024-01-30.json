@@ -1,0 +1,26 @@
+{
+  "name": "Jeffery Little",
+  "age": 24,
+  "address": {
+    "street": "Rumot Turnpike",
+    "city": "Denispe",
+    "state": "DC",
+    "zip": "95120"
+  },
+  "contact": {
+    "phone": "(441) 265-2804",
+    "servicePhone": "800166551"
+  },
+  "birthday": "1990-04-26T16:29:20.833Z",
+  "ip": "223.128.106.150",
+  "foo": "bar",
+  "profile": {
+    "about": "Puragte firehoh bu potivnac mesu kaf wicmonbe behpu cudni cefidwup cak diskunaz cagit dinaffeh. Pucucbar siom ve kus wafrenaj giril sumfoza magireh aju fahlen or olasuw hucoza maheb. Abu kirul dalpabi jelfipdod sieca rizcatuj ligidova ojgahde tapmiave luhseppo ome lauzemaj pu ni. Isezif onsete ju inopo la pa pes ce caehco pi dafkonsal ob toesoki powitcu wutras cuv.",
+    "bio": "Zow kul mag nuc nadwobceh icpo mioj fu wafmar mir nejbeze nom osaezo ci lehtarahu pargak low ga. Gimun boaj sekajah ofagujsa tuca ivuazigan gip nukbod tuhpup mir iha lujvilri. Ribij fog haham irooso mi vug niice awitewkoc lojuhheh zobjolji sujwawis opumu koc imaz pe gev irata. Aljijze duj dengu rokivhuz viga ko nojzap jinerujof civizrip roeju honopi modalog vos kozo zed ovu ze dahha. Biv ki zajkiskul javgi giworef ehiummew cojsir niz popmubcab re zobepej me tadi."
+  },
+  "apiKey": "a996118d92dcbf4c68fdfe7f04df25b87e0785af3471c6f7bbe93ea6f3429fa2",
+  "currency": {
+    "code": "HTG",
+    "name": "Haiti Gourde"
+  }
+}
