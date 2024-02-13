@@ -1,0 +1,26 @@
+{
+  "name": "Tom Young",
+  "age": 58,
+  "address": {
+    "street": "Ceumi Place",
+    "city": "Pukocnew",
+    "state": "MS",
+    "zip": "43125"
+  },
+  "contact": {
+    "phone": "(231) 822-5120",
+    "servicePhone": "800832992"
+  },
+  "birthday": "1959-01-23T09:22:54.066Z",
+  "ip": "162.196.149.94",
+  "foo": "bar",
+  "profile": {
+    "about": "Cokaba odenrez wujdumem suhewe ar rabopze nup donzen ron deiwpih zombafe liv jerrah do. Zazah fonvimfip osugfif wunohidoc zeson sirbelo cuzva ca cec ke li zep tu odalogu fij uzu agvocor ocodejuv. Jekiz ho fahirriw elowegof gojmasev ipealezo oc ce igivijug wipgo inore siptadme vun titke waj tu ta. Ukuhidroh bo agoju wawa eb tidasuk ec sohigzid cagki mozaged me vu momhomzoc minirov.",
+    "bio": "Fatede rike sooj ude wavtonri tij sigso dujhuh pibfalpem za widfaz lo ho tigkun pavomaf. Ef omi reiwfi me zomkej ga nobbevom hepeh pifakap ikpi sug werjictem nigasuz sab hajobu efi. Egganel adeemli netcigvoz vatrejo zegifi sun zopig so irivlu zuv ceg hauco renjuni noh lecnez. Bajho lijoncic owe uguris lir wun lakigcif vik lop tezic ivjadwi milop di nenadad. Vuj suami loc nevlertu dofew ovtuh cete ozzenij ji poknafga do loruze bovendo havof."
+  },
+  "apiKey": "9039c65f92c03901042fb87b54bf20518a6ae0e9b1e0f27eb772e84db995be5e",
+  "currency": {
+    "code": "VEF",
+    "name": "Venezuela Bolivar"
+  }
+}
