@@ -1,0 +1,26 @@
+{
+  "name": "Joshua Campbell",
+  "age": 60,
+  "address": {
+    "street": "Ezon Mill",
+    "city": "Baminri",
+    "state": "SC",
+    "zip": "38444"
+  },
+  "contact": {
+    "phone": "(333) 860-3431",
+    "servicePhone": "800554383"
+  },
+  "birthday": "1985-07-03T08:19:16.868Z",
+  "ip": "199.76.196.180",
+  "foo": "bar",
+  "profile": {
+    "about": "Ama lu sad pipzabzuz el ziuseos tem jujseluhu haf tekutlez lazko lovlol ocewu. Eriika ekvo askalo ruilvo jevcef befacja awi avu learo kotsu nojifowoh mehki zuuf suwawal vob. Gusnaloda paberu sa now imnid ref sis nanludi dapefi wima itiger uv oco fuw segof vipzeccal her. Juso nopife afru aberok weji nuek ewuh naamafuf vempafkuk zap wiamwa fisnob. Gifzo waz ca hafuba teil mirke gohloli bo no pefa rojwup caicajur elanawdav uwezoewo wajbup. Idu afu sa geonsut ubfaljaf ikhihe uk ah kenho okuvetiz zafza erdifmeb te rinavod hulna iduar. Virfe heb cuvzep zeuciovi vejhu wa uzinedi ju vi moru vuek dumas fu.",
+    "bio": "He jise namtir bidaim nononwo saedaca fazek id mipev odris hofketu ufojez. Maw puzwo kiggab nariwoze apeah pejco jeha gewbu nasfu giule sigra utjos evi wolaku. Noci ijemo fa ge nu cefwatec ucege mitbu neojwo jiwrewer izje ke azfic mouhkov go ejwov."
+  },
+  "apiKey": "986747053277456f554caef17f8cebace856d4602dba8f52cf139af1a933366d",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
