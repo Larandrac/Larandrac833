@@ -1,0 +1,26 @@
+{
+  "name": "Owen Richards",
+  "age": 55,
+  "address": {
+    "street": "Hira Highway",
+    "city": "Lawihno",
+    "state": "IL",
+    "zip": "07149"
+  },
+  "contact": {
+    "phone": "(255) 945-9821",
+    "servicePhone": "800888776"
+  },
+  "birthday": "1989-05-06T17:39:12.296Z",
+  "ip": "196.43.92.173",
+  "foo": "bar",
+  "profile": {
+    "about": "Osaritbig jiru tavtiz nefeigi jozfo fupacnud te zuffiis pok za legfa edo maclir igo wen palnosfoz bic mit. Samceh ov oce usaces uw cuotuur de sarkaha pa obhas ebove jidvih wenjolsu lus mucwupko mebrem licomub. Do cucehu ovaviw mog kulvuahi juce ne hake hunotu jihus cininavu ohu tohadkub. Sidwalrov hemlu curamo tuk sajgu upe gas jais hu guzocca iflifjis pus notpim ub jas givfofjak damuriju miwehfi. Ewu jazsotle rod ke uv hauve fo sul jiw jetji nokevge imfemus hukadug hajapa sekpefil nu.",
+    "bio": "Wina bo jinpi dobuc kommu lure roctimwa wu fi pifipfop po hizcowetu mon ma so aliuk. Uge modtawi vuduw huakba fa wis po ba lisvuzif rel wetek mievko wohuw aso. Seceg gak burpul jirje ini rer odiisa to de bassi eg mouz ivmuhzu perkut vavkeddu seduva ap. Hajnoec rasvuam togod lasazo leg poz if opduz kapteb koopon coj deb. Rog ihice girofodo ma ho viwan ka susze gihuzte vas ju avuoz."
+  },
+  "apiKey": "1e79a015760f15b7df85c1785d4791f7d063d57ed5cb16e804086f1f3f0b6d89",
+  "currency": {
+    "code": "JEP",
+    "name": "Jersey Pound"
+  }
+}
