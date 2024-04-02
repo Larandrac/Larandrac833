@@ -1,0 +1,26 @@
+{
+  "name": "Francisco Hardy",
+  "age": 33,
+  "address": {
+    "street": "Hihur Highway",
+    "city": "Dewnodsa",
+    "state": "MT",
+    "zip": "45310"
+  },
+  "contact": {
+    "phone": "(816) 552-5235",
+    "servicePhone": "800733555"
+  },
+  "birthday": "1980-01-12T13:42:33.237Z",
+  "ip": "70.239.16.249",
+  "foo": "bar",
+  "profile": {
+    "about": "Mubazno de ola kuun wu newma lallopve hiib gafic mi tila odege jougiti watrep. Bamnuw dimtuf viizti supmahros iwi ib ahonukip taemohar udeube abu et kih to pec bu addimi bed. Icofo pem zevu ji fup noniphaf ha afewabde accurem weh he zinaze wo fenfo lergaruv.",
+    "bio": "Lesziv ce ujaselut kugnafhal aneko maak povfiwi lidimik ofeeka jom corjo izupahdi. Tezive uwe pat agkuw vivejo ba li joti diak lul ku tunikse jifaudi cirpabim moci puz. Zicirdev vaoh veg hodhebo gokegad collur gic alca liivutop atusekma ivi po lenma mobnaze. Mipined du kuwco oc mobrihmut gu novbo no at be gilaw nuzi piugla ibmova su haz. Hofhu dufew beb gu ceepo kistiro zezuci gun dum halter maz tak la pusmucji vodsezos cariipa buivoti wugimmoc. Kew wuwic muhre wi forvavli it ti don ofego rizfah naisven docip sut ogubuj pi. Ejta tasiz dog catuzev gebewin koz hudjaku gelotsar laesu uma wi gesa zewuleco azo."
+  },
+  "apiKey": "50bda771b690a6bda0cd02a025466e4b0ae0410e01c77a4b104344a09d5fdb30",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
