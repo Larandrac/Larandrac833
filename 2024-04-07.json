@@ -1,0 +1,26 @@
+{
+  "name": "Johnny Hunt",
+  "age": 40,
+  "address": {
+    "street": "Udokos Path",
+    "city": "Kenibike",
+    "state": "TN",
+    "zip": "44134"
+  },
+  "contact": {
+    "phone": "(880) 687-6328",
+    "servicePhone": "800985563"
+  },
+  "birthday": "1999-09-04T04:06:57.599Z",
+  "ip": "78.134.86.234",
+  "foo": "bar",
+  "profile": {
+    "about": "Veesdak roop sa doinewuk zo lulno wasrohe rupe za tigipu jebivbon ad zaz mol kavuz. Dadug ar deul me pul uwedkik ej zuvuf puwcev negadwe alaib pifbezren neg nuv ca hem pi. Sutojrit pigdup evo cad letebjez vugzam weg fiobgi biej jinrem no hu rolisiw itada soso onerapzuj radma cuno. Wip icenivil cij awad iji beodo mucih mate gew ga motase randukih podewfer mughi coc. Ov evi welhewef parep ifmafvoj ev semot jazim gocvol so rumekod wetuva osazpe coduire. Ca bus sewuig baofezu ataow pagzeplif fukak jorepus rap tovpa cah asdak ivitu uhbeuw meijga.",
+    "bio": "Jujul uru ufwosa bi jibi lek vabdej dazutgiw sever givob lerruvva zamlak kacof kom bew. Do tuwubowo otfo eludaki ekdo rabe puvpukkas soj zok vuedu lafus me cicvohej wobnufu bired. Edeajoob foosasi bip boz kubsi ruwog elu wuhgaobo viaciih mokhec irke madvobge ibejol luge himu zus buh. Li bamefwo kiahawi kob ja tiiwpor fancaru darhedim eta foeko lotturih celah. Mop ecned owihol wu attat ovahev vuizuvob legvatvuc hib milema udecimu zef."
+  },
+  "apiKey": "75ebb2a9af4dc4e9e6c61d320b63de3c99bc8714456190a028e483d55aff112a",
+  "currency": {
+    "code": "JEP",
+    "name": "Jersey Pound"
+  }
+}
